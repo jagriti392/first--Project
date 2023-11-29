@@ -1,0 +1,85 @@
+
+.pricing-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.pricing-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  
+}
+
+.form-group {
+  margin-bottom: 20px;
+  color:black;
+  
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input,
+select,
+textarea {
+  width: 90%;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  background-color: whitesmoke;
+}
+
+button {
+  background-color:whitesmoke;
+  
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.terms-text,
+.help-center-text {
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+
+
+
+
+
+
+.header{
+  padding:50px var(--padding -inline-section)0;
+}
+.header-section{
+  
+  gap:50px;
+  
+
+}
+.header-right img{
+  width:600px;
+  margin-top:40px
+  
+  
+}
+.header-left{
+  max-width:40vw;
+  
+  
+
+}
+.header-left h1{
+  margin-top:20px;
+
+}
+.get-started-btn{
+  margin-top:20px;
+}
+.flex{
+  display: flex;
+}

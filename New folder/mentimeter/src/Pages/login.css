@@ -1,0 +1,43 @@
+/* src/Login/login.css */
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+.google-btn {
+    background-color: #4285f4;
+}
+
+.microsoft-btn {
+    background-color: #00a2ed;
+}
+
+.facebook-btn {
+    background-color: #4267b2;
+}
+
+.sso-btn {
+    background-color: #4caf50;
+}
+
+.signup-btn {
+    background-color: #28a745;
+}
+
+
+  
